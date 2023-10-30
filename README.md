@@ -1,0 +1,2 @@
+# .github
+More about Qayedny
